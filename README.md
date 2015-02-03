@@ -2,6 +2,8 @@
 
 Working explanation of my dotfiles.  Currently untested. Good luck!  
 
+![My Terminal Setup](img/terminal.png)
+
 ### Installation
 
 1. Install [Zsh](http://www.zsh.org/). It's like bash, but with *features*.
@@ -15,5 +17,7 @@ Working explanation of my dotfiles.  Currently untested. Good luck!
 
 ### Plugins I use
 
-- [`zsh-syntax-highlighting`](https://github.com/zsh-users/zsh-syntax-highlighting)
-- [Tomorrow Night Terminal theme](https://github.com/chriskempson/tomorrow-theme)
+- [Zsh](http://www.zsh.org/) for autocomplete, and general awesomeness.
+- [`oh-my-zsh`](https://github.com/robbyrussell/oh-my-zsh) for plugin management.
+- [`zsh-syntax-highlighting`](https://github.com/zsh-users/zsh-syntax-highlighting) for syntax highlighting in the terminal. (Valid commands are colored differently than invalid commands).
+- [Tomorrow Night Terminal theme](https://github.com/chriskempson/tomorrow-theme) for beauty.
