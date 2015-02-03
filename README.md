@@ -4,7 +4,7 @@ Working explanation of my dotfiles.  Currently untested. Good luck!
 
 ### Installation
 
-1. Install [Zsh](http://www.zsh.org/). It's like bash, but with **\~\~features\~\~**.
+1. Install [Zsh](http://www.zsh.org/). It's like bash, but with *features*.
 2. Install [`oh-my-zsh`](https://github.com/robbyrussell/oh-my-zsh). It helps manage Zsh configurations.
 3. Copy `danstheme.zsh-theme` into `~/.oh-my-zsh/themes/`.
 4. Overwrite `~/.zshrc` with my `.zshrc` file.
