@@ -13,6 +13,7 @@ Working explanation of my dotfiles.  Currently untested. Good luck!
 3. Copy `danstheme.zsh-theme` into `~/.oh-my-zsh/themes/`.
 4. Overwrite `~/.zshrc` with my `.zshrc` file.
 5. Overwrite `~/.vimrc` with my `.vimrc` file.
+5. Overwrite `~/.gitconfig` with my `.gitconfig` file.
 6. Put my `Tomorrow-Night.vim` into your `~/.vim/colors` folder, or make that folder if it doesn't exist.
 7. Install `zsh-syntax-highlighting`.
 8. Install the [Tomorrow Night theme](https://github.com/chriskempson/tomorrow-theme).  
